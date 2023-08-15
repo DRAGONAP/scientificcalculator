@@ -1,2 +1,2 @@
-# scientificcalculator
+# Scientific Calculator
 Calculator
